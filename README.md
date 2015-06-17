@@ -1,2 +1,8 @@
 # shubham
 My first repository on GitHub
+
+Name : Shubham Tripathi
+
+B.E. Project : k-Zero Day Safety: A Network Security Metric for Measuring the Risk of Unknown Vulnerabilities
+
+Abstarct : By comparing the different security solution in terms of their effectiveness of solving it, network security             matrix is gives the efficiency in protecting computer network. Research on security metrics has been hindered            by difficulties in handling zero-day attacks exploiting unknown vulnerabilities. Security risk of unknown                vulnerability is considered unmeasurable due to the less predictable nature of software flaws. This introduces            a major difficulty to security metrics, since a more secure configuration would be of little value if it were            equally suspecting zero-day attacks. This paper is to resolve this issue of Zero-day attacks. In this instead            of ranking the unknown vulnerabilities, introduced metric counts how many such vulnerabilities would be                  required for compromising network assets. A larger count will indicate more security since the likelihood of             having more unknown vulnerabilities applicable, available and  exploitable all at the same time will be                  significantly lower. We will define the metric, analyze the complexity of computing the metric, devising                 heuristic algorithms for intractable issues, and finally implement through case studies that applying the                metric to existing network security practices may generate actionable knowledge.
